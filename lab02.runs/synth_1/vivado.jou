@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Jan 21 14:11:43 2026
+# Process ID: 14492
+# Current directory: C:/Users/Student/lab02/lab02.runs/synth_1
+# Command line: vivado.exe -log fa3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fa3.tcl
+# Log file: C:/Users/Student/lab02/lab02.runs/synth_1/fa3.vds
+# Journal file: C:/Users/Student/lab02/lab02.runs/synth_1\vivado.jou
+# Running On: 102-012, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 16, Host memory: 16833 MB
+#-----------------------------------------------------------
+source fa3.tcl -notrace
