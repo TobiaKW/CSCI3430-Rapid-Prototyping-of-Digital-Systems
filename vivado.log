@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Wed Feb 04 12:39:43 2026
+# Process ID: 9964
+# Current directory: C:/Users/Student/lab03
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14400 C:\Users\Student\lab03\lab03.xpr
+# Log file: C:/Users/Student/lab03/vivado.log
+# Journal file: C:/Users/Student/lab03\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Feb 04 12:46:00 2026...
